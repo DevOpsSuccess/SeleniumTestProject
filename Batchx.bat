@@ -1,5 +1,5 @@
-cd E:\Eclipse\SeleniumTestProject
-set ProjectPath=E:\Eclipse\SeleniumTestProject
+cd E:\Build_Project\SeleniumTestProject
+set ProjectPath=E:\Build_Project\SeleniumTestProject
 echo %ProjectPath%
 set classpath=%ProjectPath%\bin;%ProjectPath%\lib\*
 echo %classpath%

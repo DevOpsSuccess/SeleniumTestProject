@@ -1,1 +1,27 @@
-Git Projct Repository Url : https://github.com/DevOpsSuccess/Selenium_Test.git
+----First Time push-----
+
+Git Projct Repository Url : https://github.com/DevOpsSuccess/SeleniumTestProject.git
+
+Step 1: Create New repository in Github
+
+Step 2: $cd E:\Git\SeleniumTestProject
+
+Step 3: $ git init
+
+Step 4: $ git add .
+
+Step 5: $ git commit -m "First commit"
+
+Step 6 : git remote add origin https://github.com/DevOpsSuccess/SeleniumTestProject.git
+
+Step 7 : git push origin master
+
+
+--- Changes Push ----
+
+To publish your local changes follow the 3 simple steps below:
+
+1. cd /project path
+2. git add <filename> or git add * to add everything
+3. git commit -m "Enter e message here"
+4. git push
